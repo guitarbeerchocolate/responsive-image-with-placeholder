@@ -1,0 +1,18 @@
+figure {
+        margin: 0;
+    	width:90%;
+    	background:black;
+		text-align:center;
+    	padding:10px;
+    	
+    	img.responsive-image {
+			width:100%;
+			height:auto;
+    	}
+    	
+    	figcaption {
+			background:#CCC;
+			text-align:center;
+			padding:10px;
+    	} 
+    }    
